@@ -1,4 +1,4 @@
-package practice;
+package practice.prize_draw;
 
 import java.util.*;
 
