@@ -1,4 +1,4 @@
-package practice.prize_draw;
+package practice.kyu_6.prize_draw;
 
 import java.util.*;
 

@@ -1,6 +1,7 @@
-package practice.is_sator_square;
+package practice.kyu_7.is_sator_square;
 
 import org.junit.jupiter.api.Test;
+import practice.kyu_7.is_sator_square.Kata;
 
 import static org.junit.jupiter.api.Assertions.*;
 

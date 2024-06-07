@@ -1,4 +1,4 @@
-package practice.nearest_square_num;
+package practice.kyu_8.nearest_square_num;
 
 import org.junit.jupiter.api.Test;
 

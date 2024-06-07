@@ -1,6 +1,7 @@
-package practice.prize_draw;
+package practice.kyu_6.prize_draw;
 
 import org.junit.jupiter.api.Test;
+import practice.kyu_6.prize_draw.Rank;
 
 import static org.junit.jupiter.api.Assertions.*;
 

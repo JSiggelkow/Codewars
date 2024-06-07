@@ -1,6 +1,7 @@
-package practice.higher_num_with_same_bits;
+package practice.kyu_6.higher_num_with_same_bits;
 
 import org.junit.jupiter.api.Test;
+import practice.kyu_6.higher_num_with_same_bits.Kata;
 
 import static org.junit.jupiter.api.Assertions.*;
 

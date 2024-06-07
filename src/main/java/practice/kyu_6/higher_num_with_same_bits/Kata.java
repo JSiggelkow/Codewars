@@ -1,4 +1,4 @@
-package practice.higher_num_with_same_bits;
+package practice.kyu_6.higher_num_with_same_bits;
 
 public class Kata {
 
