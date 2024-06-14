@@ -1,4 +1,4 @@
-package practice.kyu_5;
+package practice.kyu_5.greed;
 
 public class Greed {
 	public static int greedy(int[] dice) {

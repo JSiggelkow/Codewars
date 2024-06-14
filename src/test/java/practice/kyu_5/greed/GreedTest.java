@@ -1,4 +1,4 @@
-package practice.kyu_5;
+package practice.kyu_5.greed;
 
 import org.junit.jupiter.api.Test;
 
