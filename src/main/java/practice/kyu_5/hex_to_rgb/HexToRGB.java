@@ -10,6 +10,7 @@ public class HexToRGB {
         resultMap.put("g", Integer.parseInt(hex.substring(3,5),16));
         resultMap.put("b", Integer.parseInt(hex.substring(5),16));
 
+
         return resultMap;
     }
 }
