@@ -7,7 +7,7 @@ public class Kata {
 	public static String add(String a, String b) {
 		ArrayList<String> biggerNumList = (a.length() >= b.length()) ? new ArrayList<>(Arrays.asList(a.split(""))) : new ArrayList<>(Arrays.asList(b.split("")));
 		ArrayList<String> smallerNumList = (b.length() <= a.length()) ? new ArrayList<>(Arrays.asList(b.split(""))) : new ArrayList<>(Arrays.asList(a.split("")));
-		int biggerNumIndex = biggerNumList.size() - 1;
+			int biggerNumIndex = biggerNumList.size() - 1;
 		int smallerNumIndex = smallerNumList.size() - 1;
 		int carry = 0;
 
