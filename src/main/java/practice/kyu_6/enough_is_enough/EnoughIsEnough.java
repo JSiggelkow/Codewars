@@ -1,8 +1,6 @@
-package practice.kyu_6.EnoughIsEnough;
+package practice.kyu_6.enough_is_enough;
 
 import java.util.*;
-import java.util.concurrent.atomic.AtomicInteger;
-import java.util.stream.Collectors;
 
 public class EnoughIsEnough {
 	public static int[] deleteNth(int[] elements, int maxOccurrences) {

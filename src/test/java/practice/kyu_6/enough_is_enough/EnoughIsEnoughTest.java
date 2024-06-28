@@ -1,4 +1,4 @@
-package practice.kyu_6.EnoughIsEnough;
+package practice.kyu_6.enough_is_enough;
 
 import org.junit.jupiter.api.Test;
 
