@@ -3,6 +3,7 @@ package practice.kyu_4.binaryTree_sort_levels;
 import java.util.ArrayList;
 import java.util.List;
 
+// test
 public class Kata {
     public static List<Integer> treeByLevels(Node node)
     {
