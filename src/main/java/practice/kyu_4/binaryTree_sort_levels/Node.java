@@ -1,13 +1,10 @@
 package practice.kyu_4.binaryTree_sort_levels;
 
+import lombok.AllArgsConstructor;
+
+@AllArgsConstructor
 public class Node {
     public Node left;
     public Node right;
     public int value;
-
-    public Node(Node l, Node r, int v) {
-        left = l;
-        right = r;
-        value = v;
-    }
 }
