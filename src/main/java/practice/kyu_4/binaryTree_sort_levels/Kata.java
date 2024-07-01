@@ -3,8 +3,6 @@ package practice.kyu_4.binaryTree_sort_levels;
 import java.util.ArrayList;
 import java.util.List;
 
-//Level Sort
-
 public class Kata {
     public static List<Integer> treeByLevels(Node node)
     {
@@ -32,7 +30,6 @@ public class Kata {
             // remove first node from queue
             queue.remove(0);
         }
-
         return treeSortedByLevels;
     }
 }
